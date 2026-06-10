@@ -1,0 +1,95 @@
+---
+layout: layouts/page.njk
+title: "Wild Sex & Culture"
+permalink: /wild-sex/
+---
+**_Demographics_**
+
+![](/img/2022/06/World_map_of_prehistoric_human_migrations-1.jpg)
+
+Global composite north-pole centered map of early human migrations as determined by mitochondrial population genetics – numbers and colors reflect millennia before the present. [Source: https://en.wikipedia.org/wiki/Human#Evolution](Source: https://en.wikipedia.org/wiki/Human#Evolution)
+
+“**_SEX_**..**_.and Violence…”_** –  “_Sex…and Violence_” – “sex” is thrown in to get your attention…it’s the “human wave” – the flow of populations over time, to _demographics_, literally the “recording, description, or measurement of people.” “Violence” casts the dark, shadow-side of the human story. As Beth Shapiro tells it:
+
+> _“By 700,000 years ago, lineages belonging to the genus Homo were distributed from the southern tip of Africa northward and across Europe and Asia.…Today, every described Homo lineage apart from our own is extinct…our ancestors killed off all the other human lineages in Africa, left Africa for Europe where they killed off the Neanderthals, and then spread across the rest of the world killing off whatever remnant populations of non-sapien humans they encountered.”_
+> 
+> _Beth Shapiro_1 
+
+_Wild Globalization_ attempts to “re-sense” in the context of global “civilization” three realities of our ancient human story: First, we reproduced, both within our own ranks but also by reproducing with other hominid competitors (e.g., Homo sapien DNA includes traces of Neanderthal DNA). Second, our competitors, all of them, failed to endure – some could not keep up with us; the rest we assimilated or eliminated. Third, How did we do that? – _We survved, and even thrived, under the evolutionary pressures of scarcity – but perhaps also in competitions with other competing tribes, so kind of like what we now call, for example, “football,” – by exploiting powers of intelligence, innovation, and “working-playing-inventing-fighting-dying-praying together” – what we call “culture.”_  
+
+Primate evolution stretches back roughly 57- 85 million years. Hominid-like beings appear in the African savannah around 4-7 million years ago, the “Homo” genus perhaps 2-3 million years ago.
+
+![](/img/2022/05/Notharctus_tenebrosus_AMNH-1024x741.jpg)
+
+_Notharctus tenebrosus_, American Museum of Natural History.   
+ 49 million years ago. Attribution:  Claire Houck, New York City, USA. 
+
+Our “proto” human ancestors started to do at least four things differently:  they walked upright (“bipedalism”), they evolved opposing-thumbs, their brains got much larger (“encephalization”), and with these they developed survival-driven team-working and communication (advanced intelligence and language). Sophisticated _intelligence_ expressed in _language_ are the phenomenal differentiators of _Homo sapien-sapien_, and the wildest, most radical evolutionary ploy ever ventured by nature herself_._ 
+
+_WG_ explores how human evolution emerged as a new order of evolution itself. To survive, humans innovated scarce resources and began to change their given environment. Human intelligence-innovation strategies changed things and sped up the pace of evolution. The human version became _hyper-natural_.  We mastered fire and made artificial tools (e.g., the atlatl – see “[**_Wild Tech_**](http://wild%20tech%20hyperlink%202-17-22%20.docx/)”) that hyper-empowered our natural body. We began to store excess food and fuel resources (see _“_[**_Wild Economy_**”](http://wild%20economy%20hyperlink%202-17-22%20.docx/)). And we began to create social orders of beauty, governance, and faith.  _WG’s_ explores how these primary drivers of modern globalization – ecology, demography and culture, technology, economy, and governance – were long evolved by the time written history, or “civilization,” appears about 10,000 years ago. 
+
+Deep in the paleo-archives we find France’s Chauvet Cave, dated @30,000 years BCE, roughly just 1200 generations ago in demographic time (25 years per generation). Chauvet art reveals how our “pre”-history ancestors were perceiving their world and creating beautiful, sophisticated paintings that rival the great modern artists. Notably, it appears that the human appreciation and creation of beauty surfaces thousands of years before “Civilization.”
+
+![](/img/2022/07/image-4.png)
+
+HTO- Chauvet Cave, France, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9667279
+
+As Homo sapien sapien, the “thinking thinker,” reached the later stages of the Pleistocene “stone” age, it’s apparent that our human linage had risen to extraordinary and “singular” achievements. 1/We had not only endured the great ice and fire ages, we had prospered. 2/We had begun to direct and change, if not control, much of our natural condition by using our intelligence and hyper-natural inventions, like the atlatl. 3/We had innovated our way out of raw scarcity and ingeniously had begun to produce and reserve excess foods, fuels, shelter. 4/We had begun to ritually mourn passed souls and to honor our great and beloved leaders, our mothers, fathers, warriors, and ancestors. 5/And, like no other creature that ever walked the earth, we had begun to perceive and experience our natural world as an “objective reality” that at once terrified us and so demanded “mythic” stories so we might be able to somehow live with its terrors, its tornadoes and hurricanes, its volcanoes and earthquakes. In those same stories, however, we instinctively sensed the possibility that we might not be able to fully account for nature’s deep and mysterious origins and realities. To paraphrase the Catholic philosopher and theologian, Bernard Lonergan, the human mind and soul incessantly pursues “…_the full set of answers to the full set of questions_…” Our curious, unconstrained minds, probed more deeply, and in the throes of a singular curiosity we came to empower nature as “_given from the divine, from the heavens._” In the same mythic tellings we had set the course of both “science” and “faith.”
+
+Apparently, we had done all these things _before we began to write words or records down_. Beauty and art, sacred chanting and song, dance and love in community, indeed, faith and imagination, all preceded writing in the historical record. All these were born and maturing by the time the “new stone” age Neolithic begins roughly 10-12,000 BCE, before the conventions of “history” want to say Civilization got legs. And we’ve just recently learned that folks had figured out “beer” about 13,000 years ago, so for the record, it appears we were also partying before we were writing(!).\* \[\*Source: “13,000-year-old brewery discovered in Israel, the oldest in the world.” _The Times of Israel_. 12 September 2018.\]
+
+The “new stone” Neolithic Age gets moving in the latter “moments” (still, thousands of years and scores of generations) of the Pleistocene and was probably stirred by two major transformations: First, around 12,000 BCE the ice sheets retreated and the earth’s climate shifted into the present and warmer climate optimum (see _Wild Ecology_) – all living creatures get along better when it’s warm; Second, as our populations grew we likely over-hunted the ungulate herds (see “excess production” in _Wild Economy_) and then the clever among us started to think that maybe, instead of chasing wild game, we could “raise” and “husband” them, creatures like wild goats and sheep and pigs. We continued to gather wild grains which were most abundant in the fertile river valleys like the Fertile Crescent (11,000 BCE), the Yangtze and Yellow River basins (9,000 BCE), and later Central Mexico (5,000 BCE), and Northwestern South America (5,000 BCE). Though it’s not clear how, and while many communities remained smaller and dispersed, with the development of animal husbandry and early agriculture, we gradually began to settle.
+
+So into the Neolithic and folks, again over thousands of years, began to “reserve” some of their excess grain, then to “plant and grow” it, and, voila!, the First Agricultural Revolution gets moving around 9,000 BCE.
+
+Curious to the notion of “Civilization,” however, “writing” doesn’t appear in the record until @4-5 thousands years ago – Mesopotamian cuneiform and Egyptian hieroglyphics surface in the form of “credit systems.”\* \[\*David Graeber, _Debt, The First 5,000 Years,_ 2011\]. It appears that banker-folks may have been the first known “writers” keeping account of “credit value.”
+
+Providing loaned resources (seed, land) to aspiring planters and farmers likely triggered three revolutions, really. First, the Agricultural Revolution itself – excess production of grains, early grain storage, and so the early examples of food security. Second, modern credit systems were born which “levered” economic growth – a bigger “something” (future crop) could be produced from a smaller “something” (loaned seed-grains, land). Third, OR NOT! – modern economic “risk” comes on the scene – so if the loaned crop failed the borrower was at risk of becoming “indentured” or enslaved to the lender, and Voila!, credit systems appear to coincide with the beginning of slavery as an accepted and common human institution.
+
+Slavery appears in the archaeological record at least 10,000 years BCE, perhaps resulting from the capture of conquered enemies. Enslavement included women and children, including children sold into slavery to repay “debt.” Under civilization’s earliest known agricultural developments, human beings become “commodities,” bought and sold and used as repayment for agricultural indebtedness.\* \[\*Meltzer, Milton, _Slavery – A World History_, Da Capo, 1993, p. 9-12)
+
+It’s all wild. Globalizing civilization, as it moved into new adaptation and exploitation strategies, minimally survived and maximally thrived as it emerged under the momentums of what we describe as “black box _energies_ or _forces_” – ecology, sex-demographics-culture, technology, economy, and governance.
+
+Slavery’s long reach connects modernity to at least our Neolithic ancestors. It endures today in the back shadows of Communist China’s apparent formal public policy towards the Xinjiang Uyghur Muslims, or in the United State’s southern border policy which facilitates, even encourages, the Mexican cartels’ billion dollar human trafficking industry. “Wild” signifies the emergence of “spontaneous “orders” in a freely (or enslaved) evolving world – good and evil paint the historical record as well as our “modern” present. Enslavement and brutality haunt humanity – “evil,” here slavery, exposes the shadow-side of our hyper-nature. We’re clever but we also, in our nearly unrestrained state of freedom, are capable of the horrors that trace contiguously through our short trek out of the deep woods. “Civil” includes our wicked and monstrous barbarities against our fellow brothers and sisters, and constitutes the dark side of the “wild.”
+
+This hyper-natural way of adapting has transformed evolution. No longer is evolution constrained by biological mutation or survival alone – nature has endowed us (and we’ve grabbed…!) with our own version of “_intelligent-innovation evolution_.” So, 1/What used to take hundreds or thousands of generations or millions of years is now happening as quickly as one or two life-spans: the Wright Flyer flew Kitty Hawk and just 70 years later we were on the Moon. 2/More astonishingly, the speed of change is itself accelerating – it’s on an exponential trajectory.\* \[\*Geoffrey West, _SCALE, the Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies,_ New York: Penguin Books, 2017.\]
+
+Robert William Fogel’s concept of “technophysio…spiritual…cultural evolution” Brings to bear wild globalization’s convergence of technological change, cultural transformation, and governence. Fogel’s timeline, below, initially tracks the flatter, less dramatic path of population and technolgy from the First Agricultural Revolution (c. 9000 BCE) to the Enlightenment (17th Century CE). But then the trajectory chjanges, exponentially, wildly. In a second phase the sudden and accelerating pace of quantitative change (tech+population growth) rides technology and innovationj fromk the Enlightenment into the Second Agricultural and Industrial Revolutions to the present Internet, Genome Project, and now, already off thje chart, the “Cloud Revolution.” It’s not gradual – _it’s a rocket ride_.
+
+![](/img/2022/07/image-3.png)
+
+(Robert William Fogel, _The Fourth Great Awakening & the Future of Egalitarianism_, Chicago:  The University of Chicago Press, 2000, p. 75)
+
+Fogel’s model, on its surface about “economy” – he was awarded the 1993 Nobel in Economic Sciences – is not shy about insisting that “spirit” and “economy” energize culture simultaneously. His _The Fourth Great Awakening and the Future of Egalitarianism_ traces America’s story as a singular economic and spiritual history, from its earliest immigrations out of Europe and the subjugation of the American continent’s native peoples, through the Revolution, through the Civil War and Emancipation, into the 19th-20th century egalitarian state, to our 21st century’s current disheveled reshuffling. His story-telling brilliantly captures the emergence of Civilization’s “spontaneous orders,” painting both the brilliance and the wicked shadow-side of its irrepressible momentums, including the awkward, even bizarre attempts by American Calvinists to assimulate native peoples into Christianity, or the monstrous and tumultuous march through and out of America’s formal institution of slavery. “Ethos” emerges and forces itself on “economy,” and vice versa.
+
+Quick Hint: _Wild Globalization_ essentially makes two moves: **_First_**, it’s major move tries to critically re-track our deep and modern histories and the “energies” that seem to drive Civilization. This analysis appears to show that what we call “Civilization” might be better explained as a “black box” phenomenon – we can guess what’s going “into” the box, and we can observe what’s coming out of the box, but we have no way of knowing the mercurial chemistry flowing within it. **_Second,_** it’s minor move tries more modestly to simply open honest and plain-spoken conversations among diverse factors and viewpoints about how we can best move along in the 21st century – _WG’s_ own bias suspects we must rely heavily on freedom-based “positive-negative feedback loops.” Which suggests we have to find a critical, even skeptical approach, to how we assess our “state-of-affairs.” The major move suggests we must be hyper-vigiliant, skeptical, of our governance powers. We need to honstly recognize that our ethical responses to ecology-culture-tech-economy-governance are at best awkward and late, and at worst dangerously errant. In a nutshell, it seems that human civilization has virtually indefinite potential to manage vast resources but that the way forward is reminiscent of space-flight, e.g., to the Moon or Mars or beyond – it’s a passionate and obsessive and constant _course correction along an unstable trajectory_.
+
+### _WG’s Tracks – Bushwhacking through the Cairns:_ 
+
+**G-1.0  The Pleistocene: “Out of Energy, Ice & Fire” –** **_Tech, Economy, & Culture_****”**  **(****~****2M –** **~****200,000 to** **~****10,000 years BCE)** 
+
+**G2.0 The Neolithic: Settling…Cultivating…”Civilization”** **–** **(10,000 BCE** **_to_** **500 BCE)**  
+
+**G-3.0 Ancient & Axial Age: Buddha, Socrates, Jesus…’freedom’ and ‘soul’…” (500 BCE-1200 CE)**
+
+**G-4.0  Science & Industry Revolutions:  Energy, Warming Climes, The “Great Divergence” and Demographic Expansions (1200-1820 to 1990 CE)**  
+
+**G-5.0  The “Great Convergence,” Internet, Energy, Welfare-Debt, Exploding Urbanization** **(1990-2020)** 
+
+**G-6.0  Where now? – Knowledge-Wisdom? Energy, Automation, Small-Big Gov, Freedom(?), Great Demogrpahic “Reversal”?** **(2020 Forward)** 
+
+## STORIES **of “_Wild Sex_ _& Culture_”** 
+
+*   **In the West:** Every time the 80 million American Baby-Boomers, or “Woodstockers,” did it they caused havoc. Case in point, when they started having kids Proctor and Gamble made a fortune innovating and selling disposable diapers – but when the Boomers settled down, stopped having babies, and diaper-demand collapsed, P&G wasn’t paying attention and almost went out of business. 
+
+*   **1973:**  Boomers reached first home-buying age around this time and when they started shacking up there weren’t enough homes and mortgage resources so home-values and mortgage rates went through the roof – these factors were significant for the next 30 years of financial history – we see Big-Gov go steroidal trying to help folks buy homes by creating HUD, Fannie and Freddie (to lend more money…) and “neighborhood redevelopment” (…to a lot more folks), we see home mortgages “securitized” and mortgage rates rise to 17% by 1981 and then gradually ease off from 1981 to, oh you guessed it, the 2007-09 Financial Crisis. And yes, Boomers became “real estate” geniuses – we could “re-fi” every 3-4 years, buy boats and cars, put our kids through college, vacation, and still end up with a lower monthly payment!  Financial gurus we were! 
+
+*   **In Asia:**  1950-1986: Global population explodes from 2.5 to 5 billion souls. Someone writes a book called _Famine 1975!_4 about global starvation “time-bombs” – too many people, not enough food. But then – _oh wait!_ – someone else re-invents new fertilizers made from oil and gas and, _Voilà_!, today’s _7.5 billion_ of us are better fed though many are now _over-_eating (developed country obesity) and we are now dangerously vulnerable to “food supply chains.” 
+
+*    **China’s “Middle-Income Trap”:** China’s population is getting older too quickly, that is, due to declining birth rates (in part due to its 1980-2015 “one-child” policy) their younger demographic age groups are growing too small to care for the larger senior age groups. As well, China’s “per capita wealth” will not achieve equity with the developed nations before this occurs.\[5. Source: World Bank\] Many observers think China’s leaders (the Chinese Communist Party, “CCP”) are heavily influenced by this development. It may be a major factor behind their new “Belt and Road” initiative which aims at gaining political-economic dominance over as much of Eurasia’s population demographic (and really the entire globe under their sacred “all under heaven” _Tianxia_ doctrine). Russia’s declining birth-rate demographic is in worse shape and may play a role in its motivation to re-capture a younger and more demographically vibrant Ukraine. 
+
+*   1 Beth Shapiro, Life as We Made It – How 50,000 Years of Human Innovation Refined-and Redefined-Nature, New York: Basic Books, 2021, 53-54.
+*   2 Harry Dent, The Roaring 2000s, New York: Simon & Schuster, 1998, p. 35.
+*   3 “Mya” – “millions of years ago.”
+*   4 William Paddock, Famine 1975!¸Little, Brown and Co., 1967.
+*   5 World Bank 2020 Estimates: U.S. ranks 15th at $69,958; China ranks 100th at $17,312.

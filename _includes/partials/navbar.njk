@@ -1,0 +1,66 @@
+<nav class="wg-nav transparent" id="nav">
+  <div class="container px-4 px-lg-5">
+    <div class="desktop">
+      <div class="d-flex justify-content-between align-items-center">
+        <a href="{{ metadata.url }}" class="logo" data-page="home">
+          <img class="logo-image" alt="{{ metadata.title }}" 
+          src="{{ metadata.navbar.logo }}" />{{ metadata.navbar.title }}
+        </a>
+
+        <div class="d-none d-lg-flex align-items-center gap-5">
+          {% set navLinks = (metadata.nav_home if page.url == '/' else metadata.nav_page) %}
+          {% for n in navLinks %}
+          <a href="{{ n.url }}" class="nav-link" data-page="{{ n.name|lower }}">{{ n.name }}</a>
+          {% endfor %}
+        </div>
+
+        <div class="d-flex align-items-center gap-3">
+          <a href="{{ metadata.navbar.button_course.url }}" class="btn-nav btn-nav-outline d-none d-md-block">{{ metadata.navbar.button_course.title }}</a>
+          <a href="{{ metadata.navbar.button_buy_book.url }}" class="btn-nav btn-nav-primary">{{ metadata.navbar.button_buy_book.title }}</a>
+          <button class="theme-toggle" id="themeToggle">
+            <i class="fa-regular fa-moon"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="mobile">
+      <div class="d-flex justify-content-between align-items-center">
+        <a href="{{ metadata.url }}" class="logo" data-page="home">
+          <img class="logo-image" alt="{{ metadata.title }}" src="{{ metadata.navbar.logo }}" />{{ metadata.navbar.title }}
+        </a>
+
+        <button class="btn btn-sm btn-dark text-white opacity-75 float-end" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMobile" aria-controls="offcanvasMobile">
+          <i class="fa-solid fa-bars me-2"></i> <small>Menu</small>
+        </button>
+      </div>
+
+      <div class="mobile offcanvas offcanvas-end opacity-75" tabindex="-1" id="offcanvasMobile" aria-labelledby="offcanvasMobileLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasMobileLabel">Menu</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          <div class="d-flex flex-column gap-3 mb-4">
+            {% set navLinks = (metadata.nav_home if page.url == '/' else metadata.nav_page) %}
+            <div class="p-3 row">
+              {% for n in navLinks %}
+              <a href="{{ n.url }}" class="h1 col-12 to p-2 ms-3">{{ n.name }}</a>
+              {% endfor %}
+            </div>
+          </div>
+          
+          <div class="offcanvas-footer">
+            <div class=" d-flex align-items-center gap-3 mt-2">
+            <a href="{{ metadata.navbar.button_course.url }}" class="btn-nav border-dark border">{{ metadata.navbar.button_course.title }}</a>
+            <a href="{{ metadata.navbar.button_buy_book.url }}" class="btn-nav btn-nav-primary">{{ metadata.navbar.button_buy_book.title }}</a>
+            <button class="btn-nav btn-nav-primary rounded-circle" id="themeToggles">
+              <i class="fa-regular fa-moon"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</nav>

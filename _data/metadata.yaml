@@ -1,0 +1,51 @@
+title: "Wild Globalization"
+description: "Exploring the complexities of global economic integration and its impact on societies worldwide."
+language: "en"
+locale: en_US
+image: /img/2022/07/Global-Markets-iStock-Small-2-28-22-959802730.jpg
+favicon: /img/favicon-180.png
+url: "http://localhost:8080"
+
+metasocial: 
+  facebook: "https://www.facebook.com/usert"
+  twitteruser: "@user"
+  twitter: "https://x.com/user"
+
+table_of_contents: "Table of Contents"
+
+navbar:
+  logo: "/img/logo.png"
+  title: Wild Globalization
+  button_course: 
+    title: "Take the Course"
+    url: "#"
+  button_buy_book: 
+    title: "Buy the Book"
+    url: "#"
+
+nav_home: 
+  - name: "Author"
+    url: "#author"
+  - name: "Article"
+    url: "#article"
+  - name: "FAQ"
+    url: "#faq"
+
+nav_page: 
+  - name: "Author"
+    url: "/#author"
+  - name: "Article"
+    url: "/#article"
+  - name: "FAQ"
+    url: "/#faq"
+
+footer: 
+  title: "Wild Globalization"
+  copyrights: "© 2024 Gary Bedford"
+  list: 
+    - name: Twitter
+      url: "https://x.com/user"
+    - name: Facebook
+      url: "https://www.facebook.com/user"
+    - name: Instagram
+      url: "https://www.instagram.com/user"

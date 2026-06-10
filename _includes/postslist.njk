@@ -1,0 +1,16 @@
+<div class="posts-grid">
+  {%- for post in postslist | reverse %}
+    <a href="{{ post.url }}" class="post-card{% if post.url == url %} post-card-active{% endif %}">
+      {% if post.data.image %}
+        <img src="{{ post.data.image }}" alt="{{ post.data.title }}" class="img-fluid">
+      {% endif %}
+      <div class="post-date">{{ post.date | readableDate("LLLL yyyy") }}</div>
+      <h3 class="post-title">
+        {% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}
+      </h3>
+      <p class="post-excerpt">
+        {{ post.data.description }}
+      </p>
+    </a>
+  {%- endfor %}
+</div>

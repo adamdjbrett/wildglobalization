@@ -1,0 +1,20 @@
+<footer style="border-top: 1px solid var(--wg-border); padding: 4rem 0">
+  <div class="container px-4 px-lg-5">
+    <div class="d-flex justify-content-between align-items-center">
+      <div>
+        <div class="logo mb-2">{{metadata.footer.title}}</div>
+        <p style="color: var(--wg-gray-600); font-size: 0.875rem">
+          {{metadata.footer.copyrights}}
+        </p>
+      </div>
+      <div class="d-flex gap-4">{% for s in metadata.footer.list %}
+        <a href="{{s.url}}" class="nav-link">{{s.name}}</a>
+      {% endfor %}</div>
+    </div>
+  </div>
+</footer>
+  <p class="text-center mt-3 p-2 text-small border-top"><small>
+    Built with
+      <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a>
+    | Developed by <a href="https://www.adamdjbrett.com/">Adam Dj Brett</a>
+  </small></p>
