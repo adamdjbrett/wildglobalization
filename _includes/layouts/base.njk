@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title or metadata.title }}</title>
+<meta name="description" content="{{ description or metadata.description }}">
+<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+<style>/* This is an arbitrary CSS string added to the bundle */</style>
+{% css %}
+  {% include "css/bs.css" %}
+  {% include "css/index.css" %}
+{% endcss %}
+<style>{% getBundle "css" %}</style>
+<script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
+</head>
+<body>
+<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+{% include "partials/navbar.njk" %}
+<main id="main" data-pagefind-body>
+{{ content | safe }}
+</main>
+{% include "partials/footer.njk" %}
+{% include "partials/script.njk" %}
+<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+---
+<section class="container px-4 px-lg-5">
+   <h1 class="section-title mt-5">{{ title }}</h1>
+   <h2 class="lead">{{description}}</h2>
+<div class="posts-grid" id="postsGrid">
+  {% for post in pagination.items %}
+    <a href="{{ post.url }}" class="post-card">
+      {% if post.data.image %}
+        <img src="{{ post.data.image }}" alt="{{ post.data.title }}" class="img-fluid">
+      {% endif %}
+      <div class="post-date">{{ post.date | readableDate }}</div>
+      <h3 class="post-title">{{ post.data.title }}</h3>
+      <p class="post-excerpt">{{ post.data.description or post.data.excerpt }}</p>
+    </a>
+  {% endfor %}
+</div>
+
+<div class="pagination-wg p-3 mb-5" id="pagination">
+  {% for pageEntry in pagination.pages %}
+    {% set pageNum = loop.index %}
+    <a href="{{ pagination.hrefs[loop.index0] }}" 
+       class="page-btn text-center {% if page.url == pagination.hrefs[loop.index0] %}active{% endif %}" 
+       data-page-num="{{ pageNum }}">
+       {{ pageNum }}
+    </a>
+  {% endfor %}
+</div>
+</section>

@@ -1,0 +1,119 @@
+<script src="/js/bs.js" defer></script>
+<script>
+  const nav = document.getElementById("nav");
+  window.addEventListener("scroll", () => {
+    if (window.scrollY > 50) {
+      nav.classList.add("scrolled");
+      nav.classList.remove("transparent");
+    } else {
+      nav.classList.remove("scrolled");
+      nav.classList.add("transparent");
+    }
+  });
+
+  // Theme toggle
+  const themeToggle = document.getElementById("themeToggle");
+  const themeToggles = document.getElementById("themeToggles");
+
+  const setTheme = (theme) => {
+    document.documentElement.setAttribute("data-theme", theme);
+    localStorage.setItem("theme", theme);
+
+    const icon =
+      theme === "dark"
+        ? '<i class="fa-regular fa-sun"></i>'
+        : '<i class="fa-regular fa-moon"></i>';
+    if (themeToggle) themeToggle.innerHTML = icon;
+    if (themeToggles) themeToggles.innerHTML = icon;
+  };
+
+  const toggleTheme = () => {
+    const currentTheme = document.documentElement.getAttribute("data-theme");
+    setTheme(currentTheme === "dark" ? "light" : "dark");
+  };
+
+  if (themeToggle) themeToggle.onclick = toggleTheme;
+  if (themeToggles) themeToggles.onclick = toggleTheme;
+
+  setTheme(localStorage.getItem("theme") || "light");
+
+  // FAQ Accordion
+  document.querySelectorAll(".faq-question").forEach((q) => {
+    q.onclick = () => q.parentElement.classList.toggle("active");
+  });
+
+  // Render Posts
+  const renderPosts = () => {
+    const start = (currentPage - 1) * perPage;
+    const items = filteredPosts.slice(start, start + perPage);
+    document.getElementById("postsGrid").innerHTML = items
+      .map(
+        (p) => `
+        <a href="#" class="post-card" data-post="${p.id}">
+          <div class="post-date">${p.date}</div>
+          <h3 class="post-title">${p.title}</h3>
+          <p class="post-excerpt">${p.excerpt}</p>
+        </a>
+      `,
+      )
+      .join("");
+
+    const pages = Math.ceil(filteredPosts.length / perPage);
+    document.getElementById("pagination").innerHTML = Array.from(
+      { length: pages },
+      (_, i) =>
+        `<button class="page-btn ${i + 1 === currentPage ? "active" : ""}" data-page-num="${i + 1}">${i + 1}</button>`,
+    ).join("");
+
+    document.querySelectorAll("[data-page-num]").forEach(
+      (b) =>
+        (b.onclick = () => {
+          currentPage = parseInt(b.dataset.pageNum);
+          renderPosts();
+        }),
+    );
+  };
+
+  // Home Posts
+  document.getElementById("homePosts").innerHTML = posts
+    .slice(0, 3)
+    .map(
+      (p) => `
+      <a href="#" class="post-card" data-post="${p.id}">
+        <div class="post-date">${p.date}</div>
+        <h3 class="post-title">${p.title}</h3>
+        <p class="post-excerpt">${p.excerpt}</p>
+      </a>
+    `,
+    )
+    .join("");
+
+  // Post Detail
+  const renderPostDetail = (id) => {
+    const p = posts.find((x) => x.id === id);
+    document.getElementById("postDetailContent").innerHTML = `
+        <div class="post-date mb-3">${p.date}</div>
+        <h1 class="section-title mb-4">${p.title}</h1>
+        <div style="font-size: 1.125rem; line-height: 1.8; color: var(--wg-gray-600);">${p.content}</div>
+      `;
+  };
+
+  // Search
+  document.getElementById("searchInput").oninput = (e) => {
+    const q = e.target.value.toLowerCase();
+    filteredPosts = posts.filter(
+      (p) =>
+        p.title.toLowerCase().includes(q) ||
+        p.excerpt.toLowerCase().includes(q),
+    );
+    currentPage = 1;
+    renderPosts();
+  };
+
+  // Init
+  renderPosts();
+</script>
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+/>
