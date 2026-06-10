@@ -18,13 +18,8 @@ adamdjbrett.com
 - ⚡️ **Blazing fast** – Pure static HTML with zero runtime bloat.
 - 🔍 **Instant search** – Integrated with [Pagefind](https://pagefind.app/) for client-side full‑text search.
 - 📝 **Advanced Markdown** – Supports markdown-it with attributes, footnotes, anchor links, and auto‑generated TOC.
-- 🎨 **CSS purging** – Only used CSS is included (via PurgeCSS) for minimal file size.
 - 🌗 **Dark/light theme** (if implemented) – Respects system color scheme.
 - 📡 **Atom feed** – Automatically generated RSS feed for readers.
-- 🔗 **Auto navigation** – Leverages `@11ty/eleventy-navigation`.
-- 🧩 **Syntax highlighting** – Beautiful code blocks with Prism.js.
-- 🖼️ **Lazy‑loading images** – Automatically adds `loading="lazy"` and `decoding="async"` to all images.
-
 ---
 
 ## 📦 Prerequisites
